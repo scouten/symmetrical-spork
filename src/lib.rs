@@ -1,3 +1,5 @@
+#![cfg_attr(docsrs, feature(doc_cfg, doc_auto_cfg, doc_cfg_hide))]
+ 
 #[cfg(feature = "one")]
 /// Does a thing.
 pub fn blah() {
