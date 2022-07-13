@@ -8,6 +8,10 @@ documentation = "https://docs.rs/symmetrical-spork"
 homepage = "https://github.com/scouten/symmetrical-spork"
 repository = "https://github.com/scouten/symmetrical-spork"
 
+[package.metadata.docs.rs]
+all-features = true
+rustdoc-args = ["--cfg", "docsrs"]
+
 [features]
 one = []
 two = []
