@@ -2,10 +2,12 @@
 name = "symmetrical-spork"
 version = "0.1.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
+description = "Ignore me, just for testing"
+license = "MIT"
+license-file = "LICENSE"
+documentation = ""
+homepage = "https://github.com/scouten/symmetrical-spork"
+repository = "https://github.com/scouten/symmetrical-spork"
 
 [features]
 one = []
