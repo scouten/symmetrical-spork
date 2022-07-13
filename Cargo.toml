@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Ignore me, just for testing"
 license = "MIT"
-documentation = ""
+documentation = "https://docs.rs/symmetrical-spork"
 homepage = "https://github.com/scouten/symmetrical-spork"
 repository = "https://github.com/scouten/symmetrical-spork"
 
